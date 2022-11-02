@@ -4,8 +4,8 @@ package Demo00;
  * @Author: hsy
  * @Date: 2022/11/02/17:02
  * @Description:
- * hello git ÄÇÒ»ĞĞÊÇÒÑ¾­Ìá½»¹ıÁË
- * hello git2µÄÊä³öÓï¾ä£¬Ò»Ğ´ÉÏ¾Í±äÀ¶É«ÁË
+ * hello git é‚£ä¸€è¡Œæ˜¯å·²ç»æäº¤è¿‡äº†
+ * hello git2çš„è¾“å‡ºè¯­å¥ï¼Œä¸€å†™ä¸Šå°±å˜è“è‰²äº†
  */
 public class gitTest {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class gitTest {
         System.out.println("hello git2");
         System.out.println("hello hsy");
         System.out.println("this is hot-fix");
-        System.out.println("this is hot-fix 222");
-        System.out.println("this is master");  //ĞÂ¼ÓµÄ
-        }
+        System.out.println("this is editor form github online");
+            
+    }
 }
